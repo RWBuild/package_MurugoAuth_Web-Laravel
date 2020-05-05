@@ -2,7 +2,7 @@
 
 Package that will be used for Murugo auth to all 3rd party laravel projects with only blade structure
 
-Follow the following steps to get started:
+##Follow the following steps to get started:
 
 #### 1. Install package by running the following command
 
